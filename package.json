@@ -2,6 +2,9 @@
   "name": "testing-gatsby",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+  "node": ">=18.0.0"
+  },
   "description": "testing-gatsby",
   "author": "ch4nt",
   "keywords": [
