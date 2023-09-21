@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "engines": {
-  "node": ">=18.0.0"
+    "node": ">=18.0.0"
   },
   "description": "testing-gatsby",
   "author": "ch4nt",
@@ -19,6 +19,9 @@
   },
   "dependencies": {
     "gatsby": "^5.12.4",
+    "gatsby-plugin-image": "^3.12.0",
+    "gatsby-plugin-sharp": "^5.12.0",
+    "gatsby-source-filesystem": "^5.12.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
