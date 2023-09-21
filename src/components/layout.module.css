@@ -4,7 +4,7 @@
     font-family: sans-serif;
   }
   .heading {
-    color: rebeccapurple;
+    color: rgb(52, 130, 92);
   }
   .nav-links {
     display: flex;
@@ -16,4 +16,10 @@
   }
   .nav-link-text {
     color: black;
+  }
+  .site-title {
+    font-size: 3rem;
+    color: rgb(131, 131, 148);
+    font-weight: 700;
+    margin: 3rem 0;
   }
