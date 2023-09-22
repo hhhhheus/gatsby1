@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: "Centered on Growth",
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://www.tomheusser.com`,
   },
   plugins: [
     "gatsby-plugin-image",
