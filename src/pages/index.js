@@ -7,7 +7,8 @@ import Seo from '../components/seo'
 const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
-      <p>Helping you grow your skills.</p>
+      <p>Helping you grow your skills. I hope to share quality training resources in regards to certification tracks as well as ad hoc guides on various topics. This will likely be through blog posts.</p>
+      <p>Though that is the goal, this website is an experiment to better understand Gatsby while leveraging GitHub and Azure for delivery.</p>
       <StaticImage
         alt="picture of seedling phases"
         src="../images/growth.jpg"

@@ -8,8 +8,7 @@ import Seo from '../components/seo'
 const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
-      <p>I work in Information Security and hope to help others grow their skills by sharing resources and knowledge.</p>
-      <p>I hold the following active certifications:</p>
+      <p>I work in Information Security and I hold the following certifications:</p>
       <StaticImage
         alt="BTL1 certified"
         src="../images/btl1certified.png"
